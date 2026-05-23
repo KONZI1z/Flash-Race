@@ -1,8 +1,10 @@
 # Flash-Race
 
+Using python 3.14
+
 It need the libraries below to run:
 
-import pygame #may need to pip install, not built-in
+import pygame #may need to pip install, not built-in (python -m pip install pygame)
 
 import random
 
