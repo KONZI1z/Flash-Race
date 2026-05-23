@@ -35,6 +35,12 @@ the constant 8 is the init speed when game start, higher will be harder.
 
 the formula after + is the increasing difficulty by score growing
 
+Control:
+A D or < > to control car go left or right
+
+SPACE bar for using nitro
+
+
 # All game visual sprites (car, rock, coin, shield, background) were generated using gemini.photo generater.
 
 # For Easier Code Reading, I also translated my Chinese annotations into English.
