@@ -1,11 +1,17 @@
 # Flash-Race
 
 It need the libraries below to run:
+
 import pygame #may need to pip install, not built-in
+
 import random
+
 import sys
+
 import csv
+
 import os
+
 from collections
 
 Please download the whole 9001Asign3 folder,resource file are required.
