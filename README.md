@@ -14,7 +14,7 @@ import csv
 
 import os
 
-from collections
+from collections import deque
 
 Please download the whole 9001Asign3 folder,resource file are required.
 To run the game just directly run flash-race.py.
