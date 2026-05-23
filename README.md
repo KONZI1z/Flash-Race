@@ -41,9 +41,9 @@ the formula after + is the increasing difficulty by score growing
 
 # A D or < > to control car go left or right
 
-# SPACE bar for using nitro
+# SPACE bar to use Nitro boost if collect
 
 
-# All game visual sprites (car, rock, coin, shield, background) were generated using gemini.photo generater.
+## All game visual sprites (car, rock, coin, shield, background) were generated using gemini.photo generater.
 
-# For Easier Code Reading, I also translated my Chinese annotations into English.
+## For Easier Code Reading, I also translated my Chinese annotations into English.
