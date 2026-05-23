@@ -20,7 +20,9 @@ Thank you for reading!
 Have Fun ^^!
 
 To adjust difficulty, we can change line 427 of flash-race.py
-            self.base_speed = 8 + int((self.score ** 1.2) // 20)
+
+            # self.base_speed = 8 + int((self.score ** 1.2) // 20)
+            
 the constant 8 is the init speed when game start, higher will be harder.
 the formula after + is the increasing difficulty by score growing
 
